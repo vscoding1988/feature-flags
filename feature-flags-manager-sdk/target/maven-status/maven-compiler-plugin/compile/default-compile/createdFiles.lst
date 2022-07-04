@@ -1,0 +1,8 @@
+com\vscoding\sdk\flags\connector\FeatureFlagConnector.class
+com\vscoding\sdk\flags\connector\FeatureFlagConnectorBase.class
+com\vscoding\sdk\flags\impl\FeatureFlagServiceImpl.class
+com\vscoding\sdk\flags\connector\rest\FeatureFlagRestConnector.class
+com\vscoding\sdk\flags\bean\FeatureFlag.class
+com\vscoding\sdk\flags\FeatureFlagService.class
+com\vscoding\sdk\flags\exception\ConnectorException.class
+com\vscoding\apps\flags\sdk\config\FeatureFlagConfig.class

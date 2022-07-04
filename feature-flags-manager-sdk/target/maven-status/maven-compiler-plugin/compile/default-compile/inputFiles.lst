@@ -1,0 +1,8 @@
+C:\Dev\GitHub\tutorials\spring-boot\apps\feature-flags-manager-sdk\src\main\java\com\vscoding\sdk\flags\impl\FeatureFlagServiceImpl.java
+C:\Dev\GitHub\tutorials\spring-boot\apps\feature-flags-manager-sdk\src\main\java\com\vscoding\sdk\flags\FeatureFlagService.java
+C:\Dev\GitHub\tutorials\spring-boot\apps\feature-flags-manager-sdk\src\main\java\com\vscoding\sdk\flags\connector\FeatureFlagConnectorBase.java
+C:\Dev\GitHub\tutorials\spring-boot\apps\feature-flags-manager-sdk\src\main\java\com\vscoding\sdk\flags\connector\rest\FeatureFlagRestConnector.java
+C:\Dev\GitHub\tutorials\spring-boot\apps\feature-flags-manager-sdk\src\main\java\com\vscoding\sdk\flags\bean\FeatureFlag.java
+C:\Dev\GitHub\tutorials\spring-boot\apps\feature-flags-manager-sdk\src\main\java\com\vscoding\sdk\flags\config\FeatureFlagConfig.java
+C:\Dev\GitHub\tutorials\spring-boot\apps\feature-flags-manager-sdk\src\main\java\com\vscoding\sdk\flags\connector\FeatureFlagConnector.java
+C:\Dev\GitHub\tutorials\spring-boot\apps\feature-flags-manager-sdk\src\main\java\com\vscoding\sdk\flags\exception\ConnectorException.java
